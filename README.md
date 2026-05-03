@@ -7,6 +7,8 @@ Système de recommandation médicale basé sur le machine learning pour la déte
 - Groupe6versionfinalCardioPredict.ipynb : développement du modèle et analyses
 - coeur.csv : dataset principal
 - coeur_jeunes_500_excel.csv : dataset complémentaire
+- Exemple de resultats.pdf : des screenshots de résultats obtenus
+- rapport_patient.pdf : le pdf pour le patient des résultats obtenus
 
 ## Comment exécuter le projet
 
